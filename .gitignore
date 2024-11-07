@@ -1,0 +1,9 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all files in the folder
+.ipynb_checkpoints/
+
+# Ignore a specific file
+stock_screener_technical.ipynb
+TODO.txt
