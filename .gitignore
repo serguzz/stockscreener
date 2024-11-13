@@ -1,6 +1,9 @@
 # Ignore all .csv files
 *.csv
 
+# but NYSE_STOCKS.csv file
+!NYSE_STOCKS.csv
+
 # Ignore all files in the folder
 .ipynb_checkpoints/
 
